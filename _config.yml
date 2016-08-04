@@ -1,19 +1,4 @@
-name: thinkmortgage
-favicon: null
-layout_spectrum: 0.26142
 typography_spectrum: 0.09855406451970339
-cta:
-  domain: null
-  bucket: null
-  version: null
-analytics:
-  google: null
-  facebook: null
-  twitter: null
-opengraph:
-  image: null
-  type: null
-  appId: null
 color:
   brandColors:
     - '#FF6700'
@@ -25,4 +10,20 @@ color:
   lightness: 0.5
   saturation: 0.31219322932884097
   rhythmicContrast: 0.5
+opengraph:
+  image: null
+  type: null
+  appId: null
+layout_spectrum: 0.26142
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+name: thinkmortgage
+cta:
+  domain: null
+  bucket: null
+  version: null
+favicon: null
+description: Our Mortgage Services are FREE! We are Paid by the LENDER.
 purpose: []
